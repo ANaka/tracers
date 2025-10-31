@@ -1,0 +1,14 @@
+# Keep the build context lean
+.git
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.eggs
+venv
+.venv
+build
+NeuralSVG
+workspace
+outputs
